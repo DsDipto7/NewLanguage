@@ -1,0 +1,130 @@
+void startkor()
+{
+int friend, roomate, kuet, ndc, language, sourav, b , c , d , f ,dipto, saha ;
+float choyan, aa , compiler ;
+int sourav,b=1;
+choyan=110.23;
+aa=10.2;
+compiler=11.9;
+sourav=3;
+int e=2;
+b=20;
+f=1;
+d=1;
+c=2;
+sourav add b sub c mul d div 2;
+sourav add e;
+
+
+// My name is Dipto Saha
+
+/* My roll is 
+2007119
+*/
+
+SWITCH ( sourav ) 
+	{
+	    CASE 2 :
+		 printkor( 3000 );  
+	    CASE 3 :
+		 printkor( 2011 );  
+        CASE 4 :
+		 printkor( 6000 );  
+        CASE 7 :
+		 printkor( 1207 );   
+	
+	DEFAULT :
+		 printkor( 2007119 );
+	}
+
+
+loop ( 1 , 5 )
+	{
+	d=d mul c
+	}
+loop ( 1 , 5 )
+	{
+	d=d add c
+	}
+2 add 2 ;
+
+While ( f < 6 ) 
+  { 
+      f=f add 2 
+  } 
+f=14;
+Hoieta ( f == 13 )
+  {
+  	  f++ ;
+	
+  }
+Othobaeta
+  {
+  	  f add 8 ;
+	  
+
+  }
+
+// Trigonometric Function
+
+TRIGO~>SIN(45)<~;
+TRIGO~>SIN(90)<~;
+TRIGO~>TAN(30)<~;
+TRIGO~>COS(45)<~;
+
+// Factorial Determination 
+
+factorial~>5<~;
+factorial~>12<~;
+
+// Power Determination
+
+power~>4,1<~;
+power~>8,2<~;
+
+//Prime Non Prime Checking 
+
+prime~>117<~;
+prime~>2<~;
+prime~>1<~;
+
+//Division Operation 
+
+
+Division~>101,0<~; 
+Division~>101,101<~; 
+
+//Printing
+
+
+printkor( 40 ); 
+printkor(2.2 add 2.2); 
+aa! add compiler!;
+printkor ( 6 add 70);
+
+//Even odd determination
+
+Even_Odd ~> 2007119 <~;
+Even_Odd ~> 2007120 <~;
+
+// Multiplication
+
+multiply ~> 5 , 9 <~;
+multiply ~> 2 , 4 <~;
+multiply ~> 7, 23 <~;
+
+// Leap Year Checking
+
+year ~>2021<~ ;
+year ~>2024<~ ;
+
+// Palindrome Checking 
+
+
+palindrome~> 2002<~ ;
+
+palindrome~> 200003<~ ;
+
+// Input is finished
+
+}

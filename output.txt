@@ -1,0 +1,133 @@
+friend variable is declared successfully 
+roomate variable is declared successfully 
+kuet variable is declared successfully 
+ndc variable is declared successfully 
+language variable is declared successfully 
+sourav variable is declared successfully 
+b variable is declared successfully 
+c variable is declared successfully 
+d variable is declared successfully 
+f variable is declared successfully 
+dipto variable is declared successfully 
+saha variable is declared successfully 
+
+!!!!!!This is a  Valid declaration!!!!!!
+choyan variable is declared successfully 
+aa variable is declared successfully 
+compiler variable is declared successfully 
+
+!!!!!!This is a  Valid declaration!!!!!!
+
+ Error:  sourav variable has already declared! This is invalid declaration 
+
+ Error:  b Integer type variable has declared! This is invalid declaration 
+
+!!!!!!This is a  Valid declaration!!!!!!
+
+ value of Variable choyan = 110.230003 
+
+ value of Variable aa = 10.200000 
+
+ value of Variable compiler = 11.900000 
+
+ value of Variable sourav = 3 
+
+ value of Variable e = 2
+
+!!!!!!This is a  Valid declaration!!!!!!
+
+ value of Variable b = 20 
+
+ value of Variable f = 1 
+
+ value of Variable d = 1 
+
+ value of Variable c = 2 
+
+ Value of expression : 22 
+
+ Value of expression : 5 
+
+ !!!!! Encountered a single-line comment 
+
+ !!!!!Encountered a multi-line comment 
+
+ value in switch:2011
+value of the loop: 2
+value of the loop: 4
+value of the loop: 8
+value of the loop: 16
+value of the loop: 32
+Value of the loop: 64
+Value of the loop: 128
+Value of the loop: 256
+Value of the loop: 512
+Value of the loop: 1024
+
+ Value of expression : 4 
+
+ Value of expression in WHILE BLOCK : 3
+
+ Value of expression in WHILE BLOCK : 5
+
+ Value of expression in WHILE BLOCK : 7
+
+ value of Variable f = 14 
+
+ Value of expression in OR BLOCK : 22
+
+ !!!!! Encountered a single-line comment 
+Sine of 45 degree is :0.707108 
+Sine of 90 degree is :1.000000 
+Tangent of 30 degree is :0.577352 
+CoSine of 45 degree is :0.707105 
+
+ !!!!! Encountered a single-line comment 
+Factorial of 5 : 120
+Factorial of 12 : 479001600
+
+ !!!!! Encountered a single-line comment 
+4 ^ 1 = 4.000000
+8 ^ 2 = 64.000000
+
+ !!!!! Encountered a single-line comment 
+117 is not a prime number 
+2 is a prime number 
+1 is neither a prime number nor a composite 
+
+ !!!!! Encountered a single-line comment 
+
+ Divide by 0	
+ Result of division : 1
+
+ !!!!! Encountered a single-line comment 
+Print exp 40
+Print exp 4.400000
+
+ Value of expression : 22.099998 
+Print exp 76
+
+ !!!!! Encountered a single-line comment 
+ 2007119 is an odd number 
+ 2007120 is an even number 
+
+ !!!!! Encountered a single-line comment 
+Multiplication from 5 to 9 is: 15120
+Multiplication from 2 to 4 is: 24
+Multiplication from 7 to 23 is: -1281327104
+
+ !!!!! Encountered a single-line comment 
+
+ 2021 is not a leap year 
+
+ 2024 is a leap year 
+
+ !!!!! Encountered a single-line comment 
+
+  2002 is a palindrome. 
+
+ 200003 is not a palindrome.
+
+ !!!!! Encountered a single-line comment 
+
+ At last finished.... 
